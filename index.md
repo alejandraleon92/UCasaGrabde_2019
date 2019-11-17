@@ -6,7 +6,10 @@ Trabajos de visualización de datos de Cibergéneros Periodísticos 2019.
 
 Syntax highlighted code block
 
+<iframe title="Tama&ntilde;o de filtraciones del ICIJ" aria-label="Bar Chart" src="//datawrapper.dwcdn.net/1afH6/1/" scrolling="no" frameborder="0" style="border: none;" width="600" height="281"></iframe>
 # Header 1
+
+
 ## Header 2
 ### Header 3
 
